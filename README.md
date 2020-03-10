@@ -1,7 +1,7 @@
 # Project_1
 Implementation of House price prediction based on a set of quantitative and qualitative variables
 
-Dataaset used is sourced from Kaggle;
+Dataset used is sourced from Kaggle;
 
 Predictive variable: House price;
 
