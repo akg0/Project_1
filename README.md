@@ -5,6 +5,6 @@ Dataset used is sourced from Kaggle;
 
 Predictive variable: House price;
 
-Methodology applied: Multi-variate regression;
+Methodology applied: Multi-variate regression; Ridge Regression
 
-Metrics used: R2.
+Metrics used: R-Square
